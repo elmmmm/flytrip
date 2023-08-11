@@ -1,10 +1,15 @@
-# hy-trip
+# 风植旅途
+基于Vue3，仿*途家网*民宿预定的移动端项目🏡。
+>**Vue3 + VantUI + creat-vue + Pinia + Vue-Router**
 
-This template should help get you started developing with Vue 3 in Vite.
+网站主要有首页、收藏页、订单页、消息页和搜索页等展示页面，数据接口仅支持获取展示，部分房源数据空缺。
+#####页面预览：
+![preview](/public/demo_preview.jpg "Magic Gardens")
+#####线上展示：
+- 🛴<http://www.fairwind.top/flytrip/>
+<br>
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+---
 
 ## Customize configuration
 
