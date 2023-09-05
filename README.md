@@ -6,6 +6,7 @@
 #### 页面预览：
 ![preview](/public/demo_preview.jpg "Magic Gardens")
 #### 线上展示：
+注意要通过http（不是https）打开链接才能请求到数据嗷~
 - 🛴<http://www.fairwind.top/flytrip/>
 <br>
 
